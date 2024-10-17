@@ -1,0 +1,16 @@
+{
+    "Lua.diagnostics.globals": [
+        "UIParent",
+        "Mixin",
+        "CreateFromMixins",
+        "DEFAULT_CHAT_FRAME",
+        "ChatFrame_OpenChat",
+        "ChatTypeInfo",
+        "BaseAPIMixin",
+        "GetMoneyString",
+        "APIDocumentation",
+        "require",
+        "StaticPopupDialogs",
+        "StaticPopup_Show"
+    ]
+}
